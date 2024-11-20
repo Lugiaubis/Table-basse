@@ -1,0 +1,77 @@
+body{ 
+background-color:white;
+background-attachment:fixed;
+} 
+
+
+h1.bigtitre {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.poesie {
+	text-align : center;
+	font-family : Harrington;
+	font-size : 25px
+}
+
+.auteur {
+	text-align : center;
+	font-family : Harrington;
+	font-size : 35px;
+	font-weight : bold
+}
+
+img.modern {
+	display: block;
+	width : 200px;
+
+}
+
+img {
+	border-radius: 100px;	
+}
+
+
+.erreur1 {
+	font-size : 40px;
+	font-family : "Arial", serif;
+	text-align : center;
+	font-weight : bold;
+	color : #FF0000
+}
+
+.erreur2 {
+	font-size : 50px;
+	font-family : "Arial", serif;
+	text-align : center;
+	font-weight : bold;
+	color : #FF0000
+}
+
+.p2 {
+	text-align : center;
+}
+.bouton {
+  background-color: #E4E4E4;
+  padding: 3px;
+  text-align: center;
+  display: inline-block;
+}
+
+.centre {
+	text-align: center;
+	font-family : Harrington;
+	font-size : 25px
+}
+
+.petit {
+	font-size : 10px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+iframe {
+	padding: 5px;
+	width: 800px;
+	height: 490px
+}

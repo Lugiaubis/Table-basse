@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: "Equisite/Equisite Corpse" ; 
+  src: url("2nd4/SNT/Site html_Ordioni_Guillaume/Equisite/Equisite Corpse.ttf"); 
+}
+
+body{ 
+background-color: #000000;
+font-family: 'Equisite/Equisite Corpse', sans-serif; color: #009A3D;
+font-size: 10px
+}
+
+iframe {
+	width: 700px;
+	height: 400px;
+}
